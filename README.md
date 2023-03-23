@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Miion05
+- 👋 Hi, I’m Guido
 - 👀 I’m interested in computers, music and general science :)
-- 🌱 I’m currently learning python, PHP, HTML, CSS, godot...
+- 🌱 I’m currently learning Godot, CSS and HTML
 - 📫 How to reach me: guidoxenofonte@gmail.com (pls leave a comment saying that it isn't spam on the top of email pls :) )
 
 <!---
