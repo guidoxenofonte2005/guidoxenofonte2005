@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Python / HTML / CSS;<br>👯 I’m looking to collaborate on different and unique projects;<br>🤝 I’m looking for help with CSS concepts and Java programming;<br>💬 Ask me about music;<br>⚡ Fun fact - I have a youtube channel focused in fingerstyle guitar;
+🔭 I’m currently studying C / C# / HTML / CSS;<br>👯 I’m looking to collaborate on different and unique projects;<br>🤝 I’m looking for help with CSS concepts and C# programming for game development;<br>💬 Ask me about music;<br>⚡ Fun fact - I have a youtube channel focused in fingerstyle guitar;
 
 
 ## 🌐 Socials:
