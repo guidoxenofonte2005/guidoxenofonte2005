@@ -5,7 +5,8 @@
 <div style="display: inline-block;">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="center" alt="React" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=3670A0"/>
+    <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=3670A0"/>
+    <img align="center" alt="NodeJS" src="https://img.shields.io/badge/nodedotjs-150458?style=for-the-badge&logo=nodedotjs&logoColor=3670A0"/>
 </div>
 
 # 📊 GitHub Stats:
