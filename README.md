@@ -1,5 +1,5 @@
 ## 💻 Tecnologias:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%23ED8B00.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%23ED8B00.svg?style=for-the-badge&logo=mongodb&logoColor=#47A248) 
 
 ## 📚 Estudando:
 <div style="display: inline-block;">
