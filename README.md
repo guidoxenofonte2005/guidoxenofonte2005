@@ -7,7 +7,7 @@
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=3670A0"/>
     <img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
 # 📊 GitHub Stats:
