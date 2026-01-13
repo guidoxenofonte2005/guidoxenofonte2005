@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Guido, a brazilian full stack developer.<br><br>I like to develop new and fun ideas based on topics I like, whether it's a new app/project for some specific purpose or just a fun project along with friends.<br><br>My main tech stack is Python and Flutter, but I also have experience using Java, Swift, C/C++ and GDScript, along with some SQL/NoSQL databases such as MySQL, PostgreSQL and MongoDB.<br><br>I've got some public and other bunch of private projects, but the one I like the most is <a href=https://github.com/guidoxenofonte2005/unnamed-CG-project></p>
+<p align="left">My name is Guido, a brazilian full stack developer.<br><br>I like to develop new and fun ideas based on topics I like, whether it's a new app/project for some specific purpose or just a fun project along with friends.<br><br>My main tech stack is Python and Flutter, but I also have experience using Java, Swift, C/C++ and GDScript, along with some SQL/NoSQL databases such as MySQL, PostgreSQL and MongoDB.<br><br>I've got some public and other bunch of private projects, but the one I like the most is <a href=https://github.com/guidoxenofonte2005/unnamed-CG-project>Unnamed</a></p>
 
 ###
 
